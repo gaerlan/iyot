@@ -54,6 +54,15 @@
     "lng": 120.387330
   },
   {
+    "id": 207,
+    "name": "Pagudpud",
+    "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/download%20(1).jpg",
+    "price": 115,
+    "priceCurrency": "PESO",
+    "lat": 18.587468,
+    "lng": 120.822083
+  },
+  {
     "id": 209,
     "name": "Hundred Island",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Hundred-Islands-Feature-X-1024x529.jpg",
