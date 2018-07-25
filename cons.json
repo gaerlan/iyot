@@ -57,7 +57,7 @@
     "id": 207,
     "name": "Pagudpud",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/download%20(1).jpg",
-    "price": 305.1 km,
+    "price": 305.1,
     "priceCurrency": "km",
     "lat": 18.587468,
     "lng": 120.822083
