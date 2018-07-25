@@ -52,5 +52,14 @@
     "priceCurrency": "PESO",
     "lat": 9.834949,
     "lng": 118.738361
-  }
+  },
+{
+    "id": 111,
+    "name": "Danjugan Island",
+    "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Danjugan-Island-Drone.jpg",
+    "price": 222,
+    "priceCurrency": "PESO",
+    "lat": 9.872102,
+    "lng": 122.378051
+ }
 ]
