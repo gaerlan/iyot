@@ -93,7 +93,7 @@
     "id": 211,
     "name": "Palawan",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/5668630dc3c9e01555a4d423_palawan-philippines-coron-cr-alamy.jpg",
-    "price": 1,097.4,
+    "price": 1097.4,
     "priceCurrency": "km",
     "lat": 9.834949,
     "lng": 118.738361
@@ -111,7 +111,7 @@
     "id": 215,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/PuertoPrincesaUndergroundRiverwithATVJungleTrack.jpg",
-    "price": 1,070.8,
+    "price": 1070.8,
     "priceCurrency": "km",
     "lat": 10.192559,
     "lng": 118.926583
@@ -120,7 +120,7 @@
     "id": 214,
     "name": "Danjugan Island",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Danjugan-Island-Drone.jpg",
-    "price": 1,169.8,
+    "price": 1169.8,
     "priceCurrency": "km",
     "lat": 9.872102,
     "lng": 122.378051
