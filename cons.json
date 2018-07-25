@@ -45,13 +45,22 @@
     "lng": 120.387330
   },
   {
-    "id": 210,
+    "id": 209,
     "name": "Hundred Island",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Hundred-Islands-Feature-X-1024x529.jpg",
     "price": 135,
     "priceCurrency": "PESO",
     "lat": 16.204001,
     "lng": 120.040869
+  },
+   {
+    "id": 210,
+    "name": "Chocolate Hills",
+    "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/The-Chocolate-Hills.jpg.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 9.829708,
+    "lng": 124.139676
   },
   {
     "id": 211,
