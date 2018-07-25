@@ -62,8 +62,17 @@
     "lat": 9.834949,
     "lng": 118.738361
   },
+   {
+    "id": 212,
+    "name": "Puerto Galera",
+    "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/download.jpg",
+    "price": 1600,
+    "priceCurrency": "PESO",
+    "lat": 13.501891,
+    "lng": 120.954120
+  },
 {
-    "id": 111,
+    "id": 213,
     "name": "Danjugan Island",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Danjugan-Island-Drone.jpg",
     "price": 222,
