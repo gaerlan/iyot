@@ -62,6 +62,15 @@
     "lat": 9.829708,
     "lng": 124.139676
   },
+   {
+    "id": 211,
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/bora.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 11.967375,
+    "lng": 121.924815
+  },
   {
     "id": 211,
     "name": "Palawan",
