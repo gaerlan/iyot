@@ -35,8 +35,17 @@
     "lat": 16.402333,
     "lng": 120.596007
   },
-  {
+   {
     "id": 205,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/banaueterraces4.jpg",
+    "price": 115,
+    "priceCurrency": "PESO",
+    "lat": 16.923954,
+    "lng": 121.055640
+  },
+  {
+    "id": 206,
     "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Things-to-Do-in-Vigan.jpg",
     "price": 115,
