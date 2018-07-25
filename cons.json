@@ -46,11 +46,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "name": "Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/5668630dc3c9e01555a4d423_palawan-philippines-coron-cr-alamy.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 9.834949,
+    "lng": 118.738361
   }
 ]
