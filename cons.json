@@ -71,11 +71,20 @@
     "lat": 13.501891,
     "lng": 120.954120
   },
-{
+   {
     "id": 213,
+    "name": "Puerto Princesa Underground River",
+    "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/PuertoPrincesaUndergroundRiverwithATVJungleTrack.jpg",
+    "price": 1700,
+    "priceCurrency": "PESO",
+    "lat": 10.192559,
+    "lng": 118.926583
+  },
+{
+    "id": 214,
     "name": "Danjugan Island",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Danjugan-Island-Drone.jpg",
-    "price": 222,
+    "price": 1800,
     "priceCurrency": "PESO",
     "lat": 9.872102,
     "lng": 122.378051
