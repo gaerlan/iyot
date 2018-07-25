@@ -3,8 +3,8 @@
     "id": 145,
     "name": "San Gabriel City",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Untitled.png",
-    "price": 90,
-    "priceCurrency": "PESO",
+    "price": 1,
+    "priceCurrency": "km",
     "lat":16.669426,
     "lng": 120.504879
   },
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/20170625_101536(0).jpg",
-    "price": 100,
+    "price": 10,
     "priceCurrency": "km",
     "lat": 16.643578,
     "lng": 120.448791
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "san juan",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/96620373.jpg",
-    "price": 23,
+    "price": 22.9 ,
     "priceCurrency": "km",
     "lat": 16.671967,
     "lng": 120.362758
@@ -30,7 +30,7 @@
     "id": 204,
     "name": "Baguio",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/0519-PageOne-Baguio-Landscape.png",
-    "price": 104,
+    "price": 83.8,
     "priceCurrency": "km",
     "lat": 16.402333,
     "lng": 120.596007
@@ -39,7 +39,7 @@
     "id": 205,
     "name": "Banaue Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/banaueterraces4.jpg",
-    "price": 1200,
+    "price": 223.2,
     "priceCurrency": "km",
     "lat": 16.923954,
     "lng": 121.055640
@@ -48,7 +48,7 @@
     "id": 206,
     "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Things-to-Do-in-Vigan.jpg",
-    "price": 115,
+    "price": 150.3,
     "priceCurrency": "km",
     "lat": 17.570490,
     "lng": 120.387330
@@ -66,7 +66,7 @@
     "id": 209,
     "name": "Hundred Island",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Hundred-Islands-Feature-X-1024x529.jpg",
-    "price": 16000,
+    "price": 163.4,
     "priceCurrency": "km",
     "lat": 16.204001,
     "lng": 120.040869
@@ -75,7 +75,7 @@
     "id": 210,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/The-Chocolate-Hills.jpg.jpg",
-    "price": 90,
+    "price": 1,228.8,
     "priceCurrency": "km",
     "lat": 9.829708,
     "lng": 124.139676
@@ -84,7 +84,7 @@
     "id": 211,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/bora.jpg",
-    "price": 9000,
+    "price": 745.4,
     "priceCurrency": "km",
     "lat": 11.967375,
     "lng": 121.924815
@@ -93,7 +93,7 @@
     "id": 211,
     "name": "Palawan",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/5668630dc3c9e01555a4d423_palawan-philippines-coron-cr-alamy.jpg",
-    "price": 90,
+    "price": 1,097.4,
     "priceCurrency": "km",
     "lat": 9.834949,
     "lng": 118.738361
@@ -102,7 +102,7 @@
     "id": 212,
     "name": "Puerto Galera",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/download.jpg",
-    "price": 1600,
+    "price": 442.6,
     "priceCurrency": "km",
     "lat": 13.501891,
     "lng": 120.954120
@@ -111,7 +111,7 @@
     "id": 215,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/PuertoPrincesaUndergroundRiverwithATVJungleTrack.jpg",
-    "price": 1700,
+    "price": 1,070.8,
     "priceCurrency": "km",
     "lat": 10.192559,
     "lng": 118.926583
@@ -120,7 +120,7 @@
     "id": 214,
     "name": "Danjugan Island",
     "imageUrl": "https://raw.githubusercontent.com/gaerlan/iyot/master/Danjugan-Island-Drone.jpg",
-    "price": 1800,
+    "price": 1,169.8,
     "priceCurrency": "km",
     "lat": 9.872102,
     "lng": 122.378051
